@@ -1,0 +1,12 @@
+I love python.
+I love js.
+I love c#.
+I love java.
+I love sql.
+I love php.
+I love ruby.
+I love go.
+I love swift.
+I love kotlin.
+I love rust.
+Word count: 33
